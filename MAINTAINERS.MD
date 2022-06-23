@@ -17,3 +17,5 @@
 | Intel | Larry Horner | 
 | Capgemini | Deepak Gunjal |
 | Vodafone | Eric Murray |
+| ORANGE | Sylvain Morel |
+| ORANGE | Alexandru Ciinaru |
